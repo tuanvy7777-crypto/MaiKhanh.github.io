@@ -99,7 +99,6 @@ footer {
 }
 </style>
 
-
   <script>
     // 🌹 Tạo hiệu ứng hoa hồng rơi
     const roses = ["🌹", "🌸", "💮", "🌺"];
