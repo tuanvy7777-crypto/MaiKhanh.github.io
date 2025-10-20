@@ -87,17 +87,18 @@
 
 <style>
 footer {
-  position: fixed; /* Giữ cố định vị trí */
-  top: 50%;        /* Căn giữa theo chiều dọc */
-  left: 50%;       /* Căn giữa theo chiều ngang */
-  transform: translate(-50%, -50%); /* Dịch tâm để thật sự nằm giữa */
+  position: fixed;       /* Giữ cố định khi cuộn trang */
+  bottom: 10px;          /* Cách mép dưới 10px */
+  left: 50%;             /* Căn giữa theo chiều ngang */
+  transform: translateX(-50%); /* Dịch tâm để thật sự nằm giữa */
   font-size: 20px;
   font-weight: bold;
   color: #ff6699;
   text-align: center;
-  z-index: 9999; /* Đảm bảo nằm trên cùng */
+  z-index: 9999;         /* Nằm trên các thành phần khác */
 }
 </style>
+
 
   <script>
     // 🌹 Tạo hiệu ứng hoa hồng rơi
