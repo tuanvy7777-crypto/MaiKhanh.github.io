@@ -1,9 +1,8 @@
-<!DOCTYPE html>
 <html lang="vi">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Dành tặng Bêu 💐</title>
+  <title>Dành tặng người tôi yêuyêu 💐</title>
   <style>
     body {
       margin: 0;
@@ -78,13 +77,28 @@
 <body>
   <h1>💐 Dành tặng cho ny toai Mai Khanh 💐</h1>
   <p>
-    Không cần luôn nói lời hoa mỹ, chỉ cần bn biết rằng :<br>
-    Bạn là món quà lớn mà thế giới này gửi đến tôi.<br>
-    Hãy luôn mỉm cười và luôn hạnh phúc nhé người tôi yêu.
+    Không cần luôn nói lời hoa mỹ, chỉ cần em biết rằng :<br>
+    Em là món quà lớn mà thế giới này gửi đến tôi.<br>
+    Vì thế ãy luôn mỉm cười và luôn hạnh phúc nhé người tôi yêu.
   </p>
   <img src="beiu.jpg" alt="Bêu xinh đẹp">
 
   <footer>— Gửi đôi lời đến người tôi yêu —</footer>
+
+<style>
+footer {
+  position: fixed; /* Giữ cố định vị trí */
+  top: 50%;        /* Căn giữa theo chiều dọc */
+  left: 50%;       /* Căn giữa theo chiều ngang */
+  transform: translate(-50%, -50%); /* Dịch tâm để thật sự nằm giữa */
+  font-size: 20px;
+  font-weight: bold;
+  color: #ff6699;
+  text-align: center;
+  z-index: 9999; /* Đảm bảo nằm trên cùng */
+}
+</style>
+
 
   <script>
     // 🌹 Tạo hiệu ứng hoa hồng rơi
