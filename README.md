@@ -79,7 +79,7 @@
   <p>
     Không cần luôn nói lời hoa mỹ, chỉ cần em biết rằng :<br>
     Em là món quà lớn mà thế giới này gửi đến tôi.<br>
-    Vì thế ãy luôn mỉm cười và luôn hạnh phúc nhé người tôi yêu.
+    Vì thế hãy luôn mỉm cười và luôn hạnh phúc nhé người tôi yêu.
   </p>
   <img src="beiu.jpg" alt="Bêu xinh đẹp">
 
